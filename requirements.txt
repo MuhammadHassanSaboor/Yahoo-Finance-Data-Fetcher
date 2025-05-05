@@ -1,0 +1,13 @@
+# Core Libraries
+pandas==2.2.2         # Data manipulation and analysis
+streamlit==1.35.0     # Web app framework for Python
+yfinance==0.2.40      # Fetch historical market data from Yahoo Finance
+
+# Utility Libraries
+# These are part of Python’s Standard Library, no need to install separately:
+# - datetime
+# - io (StringIO)
+# - warnings
+
+# Optional: specify Python version for consistency (optional but recommended)
+python_version >= 3.8
